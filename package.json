@@ -1,0 +1,23 @@
+{
+  "name": "react-notification-tray",
+  "version": "1.0.0",
+  "description": "A simple thing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktbartholomew/react-notification-tray.git"
+  },
+  "keywords": [],
+  "author": "Keith Bartholomew <keith.bartholomew@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ktbartholomew/react-notification-tray/issues"
+  },
+  "homepage": "https://github.com/ktbartholomew/react-notification-tray#readme",
+  "dependencies": {
+    "react": "^16.8.6"
+  }
+}
